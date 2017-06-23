@@ -3,8 +3,7 @@ Author Loc VU
 Created on 26.9.2015
 '''
 
-def insert_sort(array):
-	 merge_sort(seq):
+def merge_sort(seq):
 	if len(seq) <= 1:
 		return seq
 	mid = int(len(seq)/2)
